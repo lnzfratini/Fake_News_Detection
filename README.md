@@ -46,7 +46,7 @@ git clone https://github.com/gerakys/PyhtonProject_DMTA.git
 
 ##### Navigate to the project directory 
 ```
-cd PythonProject_DMTA
+cd Fake_News_Detection
 ```
 
 
