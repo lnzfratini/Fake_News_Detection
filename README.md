@@ -41,7 +41,7 @@ pip install requirements.txt
 
 ##### Clone the repository
 ```
-git clone https://github.com/gerakys/PyhtonProject_DMTA.git
+git clone https://github.com/lnzfratini/Fake_News_Detection.git
 ```
 
 ##### Navigate to the project directory 
