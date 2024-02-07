@@ -77,7 +77,7 @@ Currently, the project is in active development. Check the repository issues for
 We would like to acknowledge and express our gratitude to the following articles and websites that have greatly contributed to the development and inspiration of this fake news detection project:
 
 - [Automatic Fake News Detection for Romanian Online News.](https://www.researchgate.net/publication/359252597_Automatic_Fake_News_Detection_for_Romanian_Online_News): This article provided valuable insights into various methodologies for detecting fake news, shaping our overall approach and strategies..
-- [Article Title 2](https://arxiv.org/ftp/arxiv/papers/2201/2201.07489.pdf): The concepts and techniques discussed in this article played a pivotal role in enhancing our understanding of machine learning applications in text classification, a fundamental aspect of our project.
+- [Development of Fake News Model Using Machine Learning through Natural Language Processing](https://arxiv.org/ftp/arxiv/papers/2201/2201.07489.pdf): The concepts and techniques discussed in this article played a pivotal role in enhancing our understanding of machine learning applications in text classification, a fundamental aspect of our project.
 - [Kaggle](kaggle.com): This is where we found our dataset
 
 We would like to express our appreciation to the creators and contributors of the following GitHub repository:
