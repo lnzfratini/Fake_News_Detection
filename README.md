@@ -34,10 +34,7 @@ The project aims to create a model capable of distinguishing between true and fa
 ## Installation
 
 Make sure you have Python installed on your machine. 
-You can install the required packages using the following command on your terminal or bash shell:
-```
-pip install requirements.txt
-```
+Using the following command on your terminal or bash shell to:
 
 ##### Clone the repository
 ```
@@ -49,6 +46,10 @@ git clone https://github.com/lnzfratini/Fake_News_Detection.git
 cd Fake_News_Detection
 ```
 
+##### Install the required packages
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 
